@@ -1,4 +1,7 @@
-# PlatformIO IDE Terminal
+# My very own _Eierlegende Wollmilchsau_
+
+[Eierlegende Wollmilchsau](logo.png)
+
 A terminal package for Atom, complete with themes, API and more for [PlatformIO IDE](http://platformio.org/#!/platformio-ide).
 
 ![demo](https://github.com/jeremyramin/terminal-plus/raw/master/resources/demo.gif)
