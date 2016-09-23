@@ -1,18 +1,14 @@
 # My very own _Eierlegende Wollmilchsau_
 
-![wollmilchsau](logo.png)
+![wollmilchsau](logo_small.png)
 
-A terminal package for Atom, complete with themes, API and more for [PlatformIO IDE](http://platformio.org/#!/platformio-ide).
+## Vision
 
-![demo](https://github.com/jeremyramin/terminal-plus/raw/master/resources/demo.gif)
+Nothing here yet ... just a fork so far!
 
-*[Nucleus Dark UI](https://atom.io/themes/nucleus-dark-ui) with [Atom Material Syntax](https://atom.io/themes/atom-material-syntax) and our Homebrew theme.*
-
-## Usage
-
-`platformio-ide-terminal` stays in the bottom of your editor while you work.
-
-Click on a status icon to toggle that terminal (or ``ctrl-` ``). Right click the status icon for a list of available commands. From the right-click menu you can color code the status icon as well as hide or close the terminal instance.
+Based upon a fork of terminal-plus ...
+I want to make this a Jack of all trades plugin.
+Let's go ...
 
 ### Terminal
 You can open the last active terminal with the `platformio-ide-terminal:toggle` command (Default:`` ctrl-` ``).  If no terminal instances are available, then a new one will be created. The same toggle command is used to hide the currently active terminal.
