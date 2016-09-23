@@ -1,6 +1,6 @@
 # My very own _Eierlegende Wollmilchsau_
 
-[Eierlegende Wollmilchsau](logo.png)
+![wollmilchsau](logo.png)
 
 A terminal package for Atom, complete with themes, API and more for [PlatformIO IDE](http://platformio.org/#!/platformio-ide).
 
